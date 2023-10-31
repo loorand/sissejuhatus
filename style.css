@@ -4,14 +4,30 @@ h1 {
     font-size:28px
 }
 
+h2 {
+    color:#005522;
+    font-family:monospace;
+    font-size:20px
+}
+
 p {
     color:#003100;
-    font-family:monospace
+    font-family:monospace;
+    font-size:14px
+}
+
+li {
+    color:#003100;
+    font-family:monospace;
+    font-size:14px
 }
 
 a:link {
     color:#209a20;
-    font-family:monospace
+    font-weight:bold;
+    background-color:#cfcfaa;
+    font-family:monospace;
+    font-size:14px
 }
 
 a:visited {
@@ -32,5 +48,22 @@ a:active {
 }
 
 img {
-    border-radius:10px
+    border-radius:10px;
+}
+
+th {
+    color:#003100;
+    font-weight:bold;
+    font-family:monospace;
+    font-size:16px
+}
+
+tr {
+    color:#003100;
+    font-family:monospace;
+    font-size:14px
+}
+
+body {
+    background-color:#cfffdd
 }
