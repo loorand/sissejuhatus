@@ -67,3 +67,20 @@ tr {
 body {
     background-color:#cfffdd
 }
+
+.div1 {
+    width:60%;
+    float:left;
+    text-align:justify
+}
+
+.div2 {
+    width:30%;
+    float:right;
+    transition:width 0.5s ease
+}
+
+.div2:hover {
+    width:35%;
+    float:right
+}
