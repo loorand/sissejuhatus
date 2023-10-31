@@ -1,0 +1,36 @@
+h1 {
+    color:#005522;
+    font-family:monospace;
+    font-size:28px
+}
+
+p {
+    color:#003100;
+    font-family:monospace
+}
+
+a:link {
+    color:#209a20;
+    font-family:monospace
+}
+
+a:visited {
+    color:#205769;
+    font-family:monospace
+}
+
+a:hover {
+    color:#209a20;
+    background-color:#003100;
+    font-family:monospace
+}
+
+a:active {
+    color:#003100;
+    background-color:#209a20;
+    font-family:monospace
+}
+
+img {
+    border-radius:10px
+}
